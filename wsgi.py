@@ -1,2 +1,2 @@
-from myapp import app
+from iss import app
 application = app.server
